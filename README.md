@@ -1,2 +1,2 @@
 # meta_learn
-for Meta DeveloperS learning
+Some from Meta Backend Developer certification
