@@ -1,2 +1,2 @@
 # meta_learn
-for Meta developer course
+for Meta DeveloperS learning
